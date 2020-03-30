@@ -1,0 +1,39 @@
+{
+  "logs": [
+    {
+      "message": "Hard drive failed at workstation 005",
+      "attention": true,
+      "technician": "John Doe",
+      "id": 1
+    },
+    {
+      "message": "Did some stupid shit lmao",
+      "attention": false,
+      "technician": "John Doe",
+      "date": "2019-10-12T19:46:30.966Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Tonislav",
+      "lastName": "Tachev",
+      "id": 4
+    },
+    {
+      "firstName": "Nicolle",
+      "lastName": "Koleva",
+      "id": 5
+    }
+  ]
+}
